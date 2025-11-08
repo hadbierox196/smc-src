@@ -154,12 +154,12 @@ export default function Footer() {
 
         <div className="border-t border-white/20 pt-8 text-center space-y-2">
           <p className="text-white/60">
-            &copy; 2025 SRC - Sargodha Medical College Research Society. All rights reserved.
+            &copy; 2025 SRC - Sargodha Medical College. All rights reserved.
           </p>
           <p className="text-white/60">
             Developed by{" "}
             <a
-              href="https://hassan-farooq.com"
+              href="https://portfolios-five-ivory.vercel.app/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-white hover:text-white/80 transition font-semibold"
